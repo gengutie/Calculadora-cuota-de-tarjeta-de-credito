@@ -1,1 +1,2 @@
-# Calculadora-cuota-de-tarjeta-de-credito
+# TC-Calculator
+Calculadora para cuota de utilizacciones de tarjetas de credito.
